@@ -1,0 +1,10 @@
+#nav {
+background-color: rgba(183, 26, 183, 0.99);
+    /*list-style-type: none;*/
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+
+}

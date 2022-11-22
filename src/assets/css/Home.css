@@ -1,0 +1,19 @@
+.homeImage {
+    width: 400px;
+    height: 300px;
+}
+#main {
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    background-color: rgba(183, 26, 183, 0.99);
+
+
+}
+#container {
+    padding: 16px;
+    margin-right: 50px;
+    padding-top: 84px;
+
+}
+

@@ -1,0 +1,23 @@
+#body {
+margin-top: 10px;
+
+display: flex;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+button {
+    margin-left: 850px;
+
+}
+.list {
+    padding-left: 10px;
+
+
+
+}
