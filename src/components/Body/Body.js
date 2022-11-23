@@ -11,6 +11,8 @@ export default function Body (){
                </ul>
                <button>Sign Up for Square</button>
 
+
+
            </div>
 
 

@@ -1,0 +1,9 @@
+.footerImage {
+    height: 60px;
+
+}
+#footerMainDiv {
+    display: flex;
+    padding-top: 20px;
+
+}
